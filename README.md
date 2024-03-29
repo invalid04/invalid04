@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon Beavers</h1>
-<h3 align="center">A passionate frontend developer from the United States</h3>
+<h3 align="center">A passionate software engineer from the United States</h3>
 
 - 🔭 I’m currently working on **Trustmark Form Tool**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bjb733@msstate.edu**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
