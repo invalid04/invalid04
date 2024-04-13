@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Trustmark Form Tool**
 
-- 🌱 I’m currently learning **Next.js and Django**
+- 🌱 I’m currently learning **Next.js and Express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/invalid04](https://github.com/invalid04)
 
-- 💬 Ask me about **react, tailwind, next.js**
+- 💬 Ask me about **react, tailwind, next.js, express**
 
 - 📫 How to reach me **bjb733@msstate.edu**
 
