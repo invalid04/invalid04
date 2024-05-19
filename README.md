@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Beavers</h1>
 <h3 align="center">A passionate software engineer from the United States</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, GO**
 
 - 👨‍💻 All of my projects are available at [https://github.com/invalid04](https://github.com/invalid04)
 
