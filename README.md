@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, tailwind, next.js, express**
 
-- 📫 How to reach me **bjb733@msstate.edu**
+- 📫 How to reach me **bjbeavers0102@gmail.com**
 
 
 <p align="left">
